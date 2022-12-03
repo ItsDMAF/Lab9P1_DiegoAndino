@@ -6,7 +6,7 @@ import java.util.Scanner;
 import javax.swing.JOptionPane;
 import java.util.ArrayList;
 
-//NO MAJE TE PASATES LA VERDAD... PIJE DESPEDIDA
+
 
 public class Lab9P1_DiegoAndino {
     
